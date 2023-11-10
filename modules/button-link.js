@@ -22,3 +22,7 @@ function changeButtonText() {
 };
 
 changeButtonText();
+
+window.addEventListener('resize', function() {
+    changeButtonText();
+});
