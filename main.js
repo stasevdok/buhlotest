@@ -14,8 +14,6 @@ let remainAlcohol2 = document.querySelector('#remain-alcohol2');
 let addButton = document.querySelector('#add-drink');
 let otherDrinks = document.querySelector('#other-drinks');
 
-let buttonLink = document.querySelector('#button-link');
-
 let newDrinks = [];
 
 let countNewDrinks = 1;
