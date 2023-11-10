@@ -138,3 +138,5 @@ function createNewDrink() {
 addButton.addEventListener('click', function () {
     createNewDrink();
 });
+
+createNewDrink();

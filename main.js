@@ -165,7 +165,6 @@ alcoholLevelEl2.addEventListener('input', function() {
     testRemain();
 });
 
-createNewDrink();
 
 
 
